@@ -1,0 +1,58 @@
+body 
+    .headline {
+         
+        color :rgb(10, 129, 93);
+        font-family :Arial;
+        font-weight :bold;
+        margin-left:50% ;
+        margin-bottom:60px;
+        margin-top:60px;
+    }
+
+    .style1 {
+        margin: auto;
+        width :80%;
+        display: block;
+        background-color: rgba(241, 248, 136, 0.26);
+        border:black solid 2px;
+        
+    }
+    .clean{
+        clear: both;
+    }
+    .float {
+        margin-right: 40px; 
+        float: right;
+        width:125px ;
+        height:125px ;
+    }
+    .email {
+        color:blue;
+        text-decoration:underline;
+    }
+    .bad{
+        
+        font-size:16;
+        font-family:bold; 
+
+    }
+    .style2{
+        font-size:14px;
+        font-weight:bold;
+
+    }
+    .float1{
+        float: left;
+        width: 32%;
+        margin-top: -10px;
+    }
+    .float2{
+        float: left;
+        width: 22%;
+        margin-left: 2px;
+    }
+    .float3{
+        float: right;
+        width: 22%;
+        margin-left: 2px;
+    }
